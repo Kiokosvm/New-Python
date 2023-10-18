@@ -21,3 +21,23 @@ x=int(3) # x will be 3
 print(x)
 x=float(3) # x will be 3.0g 
 print(x)
+
+#you can get the type of variable by using the type() function
+x=5
+y="john"
+print(type(x))
+print(type(y))
+
+#strings can be declared by using either single or double quotes
+
+x ='john'
+#same as
+x="john"
+
+#variable names are case sensitive
+
+a=4
+A="sally"
+# 'A' will not overwrite 'a'
+
+
